@@ -1,7 +1,7 @@
 # Linked List Manager
 
 - Singly Linked
-- - Appending
-- - Deleting
-- - Sorting
+  - Appending
+  - Deleting
+  - Sorting
 - Doubly Linked
