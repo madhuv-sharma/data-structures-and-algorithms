@@ -1,5 +1,6 @@
 // Designed in Turbo C++
 
+#include <alloc.h>
 #include <conio.h>
 #include <stdio.h>
 #include <stdlib.h>
