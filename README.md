@@ -1,7 +1,6 @@
-# Linked List Manager
+# Data Structures and Algorithms
 
-- Singly Linked
-  - Appending
-  - Deleting
-  - Sorting
-- Doubly Linked
+- Linked Lists:
+  - Singly Linked
+  - Doubly Linked
+- Stacks
