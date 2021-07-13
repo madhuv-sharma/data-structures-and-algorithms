@@ -4,4 +4,8 @@
   - Singly Linked
   - Doubly Linked
 - Stack
+  - Arrays
+  - Dynamic Memory Allocation
 - Queue
+  - Arrays
+  - Dynamic Memory Allocation
