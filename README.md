@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 
-- Linked Lists:
+- Linked List:
   - Singly Linked
   - Doubly Linked
-- Stacks
+- Stack
+- Queue
