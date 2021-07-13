@@ -3,9 +3,9 @@
 - Linked List:
   - Singly Linked
   - Doubly Linked
-- Stack
+- Stack:
   - Arrays
   - Dynamic Memory Allocation
-- Queue
+- Queue:
   - Arrays
   - Dynamic Memory Allocation
