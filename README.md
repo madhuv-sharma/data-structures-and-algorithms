@@ -10,17 +10,20 @@ Structures:
   - Queue:
     - Arrays
     - Dynamic Memory Allocation
-    - C
-    - D
-    - P
-  - Sparse Matrix
+    - Circular
+    - Double Ended (deque)
+    - Priority
+    - Sparse Matrix
+  - Tree
+
 Algorithms:
   - Sorting
-    - Selection
     - Bubble
-    - Linear
     - Insertion
-    - Quick
-  - Searching
     - Linear
+    - Quick
+    - Radix
+    - Selection
+  - Searching
     - Binary
+    - Linear
