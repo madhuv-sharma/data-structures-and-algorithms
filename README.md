@@ -15,6 +15,7 @@ Structures:
     - Priority
     - Sparse Matrix
   - Tree
+    - AVL
 
 Algorithms:
   - Sorting
