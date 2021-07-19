@@ -17,8 +17,9 @@ Structures:
   - Tree:
     - AVL
   - Heap
+
 <br />
-<br />
+
 Algorithms:
   - Sorting
     - Bubble
