@@ -14,8 +14,9 @@ Structures:
     - Double Ended (deque)
     - Priority
     - Sparse Matrix
-  - Tree
+  - Tree:
     - AVL
+  - Heap
 
 Algorithms:
   - Sorting
