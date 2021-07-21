@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-**Structures**:
+***Structures***:
   - Linked List:
     - Singly Linked
     - Doubly Linked
@@ -20,7 +20,7 @@
   - Graph
 <br />
 
-**Algorithms**:
+***Algorithms***:
   - Sorting
     - Bubble
     - Insertion
