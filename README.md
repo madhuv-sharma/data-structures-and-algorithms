@@ -16,8 +16,8 @@
     - Sparse Matrix
   - Tree:
     - AVL
-  - Heap
-
+    - Heap
+  - Graph
 <br />
 
 *Algorithms*:
