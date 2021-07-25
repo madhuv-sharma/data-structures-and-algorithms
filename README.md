@@ -18,6 +18,7 @@
     - AVL
     - Heap
   - Graph
+  - Big O Notation
 <br />
 
 ***Algorithms***:
